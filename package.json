@@ -1,0 +1,15 @@
+{
+  "name": "agilepm",
+  "version": "1.0.0",
+  "description": "Project and task management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "agilepm"
+  },
+  "author": "Naledi Tshapi, Ciaran Formby, Luyanda Ndlovu, Ashe-shaana Ndzenge",
+  "license": "ISC"
+}
